@@ -7,6 +7,7 @@ nav:
     - app-components/editor.md
     - app-components/search-and-find.md
     - app-components/reviewer.md
+    - app-components/ai-assistant.md
   - Settings & Data:
     - settings-and-data/settings.md
     - settings-and-data/cloud-sync.md
