@@ -1,6 +1,7 @@
 # Home
 
-The **Home** view is your personal learning dashboard, providing a comprehensive overview of your study progress and statistics.
+The **Home** view is your personal learning dashboard, providing a comprehensive
+overview of your study progress and statistics.
 
 ## Study Overview
 

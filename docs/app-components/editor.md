@@ -1,6 +1,8 @@
 # Editor
 
-The **Editor** is where you create and modify your study content. Files are organized into study blocks called **cells**, each of which can be reviewed multiple times on a customizable schedule using spaced repetition.
+The **Editor** is where you create and modify your study content. Files are
+organized into study blocks called **cells**, each of which can be reviewed
+multiple times on a customizable schedule using spaced repetition.
 
 ## Cell Types
 

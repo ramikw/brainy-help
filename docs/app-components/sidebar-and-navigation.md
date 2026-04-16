@@ -1,6 +1,7 @@
 # Sidebar & Navigation
 
-The sidebar is your command center for navigating Brainy. It provides quick access to all major features and file management capabilities.
+The sidebar is your command center for navigating Brainy. It provides quick 
+access to all major features and file management capabilities.
 
 ## Sidebar Components
 

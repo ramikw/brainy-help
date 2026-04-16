@@ -1,6 +1,7 @@
 # Search & Find
 
-Quickly locate any content across your entire study library with Brainy's powerful search functionality.
+Quickly locate any content across your entire study library with Brainy's
+powerful search functionality.
 
 ## How to Search
 

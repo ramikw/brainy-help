@@ -1,7 +1,5 @@
 # Settings
 
-Customize Brainy to match your preferences and workflow:
-
 ## General Settings
 
 ### Database Location

@@ -1,6 +1,7 @@
 # Reviewer
 
-The **Reviewer** is where you study your cards using scientifically-optimized spaced repetition powered by [FSRS (Free Spaced Repetition Scheduler)](https://github.com/open-spaced-repetition).
+The **Reviewer** is where you study your cards using scientifically-optimized 
+spaced repetition powered by [FSRS (Free Spaced Repetition Scheduler)](https://github.com/open-spaced-repetition).
 
 ## Review Process
 
