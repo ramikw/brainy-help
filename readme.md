@@ -4,4 +4,4 @@ pip install mkdocs
 mkdocs serve
 ```
 
-[Public hosted website](https://ramialkawadri.github.io/Brainy-help/)
+[Public hosted website](https://ramialkawadri.github.io/brainy-help/)
