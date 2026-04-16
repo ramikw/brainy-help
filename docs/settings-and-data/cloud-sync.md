@@ -38,7 +38,7 @@ If you modify the same card on two devices before they sync:
 ### Maximum Storage
 - **100 MB** total storage for all synced items
 - This includes all files, cards, and metadata
-- Sufficient for most users with thousands of cards
+- Sufficient for most users with thousands of cells
 
 ## Keyboard Shortcuts
 

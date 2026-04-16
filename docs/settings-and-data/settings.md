@@ -9,6 +9,9 @@ Customize Brainy to match your preferences and workflow:
 - Contains all your files, cells, and study data
 - Useful for backup or moving your data to a different location
 - Changes take effect after restarting the app
+- Note: when you log in, a new folder is created with your username — this is
+where your files will be stored. When signed out, files are stored directly
+in the root directory without a subfolder
 
 ### Theme
 - **Light** — Bright interface for daytime use
