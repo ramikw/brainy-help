@@ -41,7 +41,4 @@ Getting started with Brainy is simple:
 ## Need Help?
 
 ### Report Issues or Request Features
-Found a bug or have a feature idea? Visit the [GitHub Issues page](https://github.com/ramialkawadri/Brainy/issues/new) to report it.
-
-### Contact the Developer
-For questions or feedback, reach out to the developer at [ramialkawadri@hotmail.com](mailto:ramialkawadri@hotmail.com).
+Found a bug or have a feature idea? Visit the [GitHub Issues page](https://github.com/ramikw/brainy/issues/new) to report it.
