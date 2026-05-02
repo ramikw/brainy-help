@@ -39,3 +39,5 @@ Change your email address or password associated with your Brainy account.
 
 ### Delete Account
 ⚠️ **Permanent action** — Removes your account and all synced data from the server. Local data remains but sync functionality will be unavailable.
+
+When your account has not been active for 6 months, your account will be automatically deleted.

@@ -5,12 +5,12 @@ Brainy automatically creates regular backups of your entire database to protect 
 ## How Backups Work
 
 ### Backup Location
-- Backups are stored automatically in your settings directory
-- Same location as your main `brainy.db` database file
+- Backups are stored in the folder named after your username, inside your database directory
+- By default, the database directory is your app settings directory
 
 ### Backup Naming
-- Each backup includes a timestamp (e.g., `brainy.db.backup.2025-01-22-145030`)
-- Timestamps help you identify when each backup was created
+- Each backup is named by date and time (e.g., `2026_05_01_19_44_45.backup`)
+- The date helps you identify when each backup was created
 - Multiple backups accumulate over time
 
 ## Restoring from a Backup
@@ -21,9 +21,10 @@ If something goes wrong and you need to restore from a backup:
 
 1. **Close Brainy** — Exit the application completely
 
-2. **Navigate to Settings Directory** — Locate your backups
-   - Find the folder containing your `brainy.db` file
-   - You'll see backup files named `brainy.db.backup.*`
+2. **Navigate to Database Directory** — Locate your backups
+   - Go to where your database files are stored — by default, this is your app settings directory
+   - Open the folder named after your username
+   - Backup files are named by date and time (e.g., `2026_05_01_19_44_45.backup`)
 
 3. **Select Your Backup** — Choose which backup to restore from
    - Pick the timestamp closest to when you last had good data
@@ -37,13 +38,13 @@ If something goes wrong and you need to restore from a backup:
 
 ### Example
 ```
-Original:  brainy.db.backup.2025-01-20-100000
+Original:  2026_05_01_19_44_45.backup
 Restore:   brainy.db
 ```
 
 ## Best Practices
 
 - ✅ Enable auto-sync to keep cloud copies of your data
-- ✅ Periodically backup your settings directory to external storage
+- ✅ Periodically backup your database directory to external storage
 - ✅ Note the timestamps of your most important backups
 - ⚠️ Always keep the current `brainy.db` file as a safety measure before testing restores
