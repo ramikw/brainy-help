@@ -74,3 +74,4 @@ Work faster in the editor with these shortcuts:
 | Ctrl + Space | Move focus to the text editor |
 | Alt + DEL | Delete current cell |
 | F5 | Start studying/review session |
+
