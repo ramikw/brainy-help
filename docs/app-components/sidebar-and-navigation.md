@@ -56,10 +56,10 @@ Speed up your workflow with these essential keyboard shortcuts:
 
 | Shortcut | Action |
 |---|---|
-| Ctrl + \ | Collapse/Expand the sidebar |
-| Ctrl + N | Create new file |
-| DEL | Delete the selected file |
-| F2 | Rename selected file |
-| Ctrl + P | Open settings |
-| Ctrl + H | Navigate to home |
-| Ctrl + Shift + H | Navigate to search |
+| `Ctrl + \` / `Cmd + \` | Collapse/Expand the sidebar |
+| `Ctrl + N` / `Cmd + N` | Create new file |
+| `DEL` | Delete the selected file |
+| `F2` | Rename selected file |
+| `Ctrl + P` / `Cmd + P` | Open settings |
+| `Ctrl + H` / `Cmd + H` | Navigate to home |
+| `Ctrl + Shift + H` / `Cmd + Shift + H` | Navigate to search |

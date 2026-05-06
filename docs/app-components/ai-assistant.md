@@ -47,4 +47,4 @@ Work faster in the editor with these shortcuts:
 
 | Shortcut | Action |
 |---|---|
-| Ctrl + J | Toggle AI chat |
+| `Ctrl + J` / `Cmd + J` | Toggle AI chat |

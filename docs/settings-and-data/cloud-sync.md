@@ -44,4 +44,4 @@ If you modify the same card on two devices before they sync:
 
 | Shortcut | Action |
 |---|---|
-| Ctrl + Shift + Y | Sync |
+| `Ctrl + Shift + Y` / `Cmd + Shift + Y` | Sync |

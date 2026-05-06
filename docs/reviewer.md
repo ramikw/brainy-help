@@ -19,11 +19,11 @@ you to the cell in the editor so that you can edit the cell.
 ## Shortcuts
 
 
-| Keyboard shortcut | What it does |
-|-------------------|--------------|
-| Space             | Show answer  |
-| 1                 | Again        |
-| 2                 | Hard         |
-| 3                 | Good         |
-| 4                 | Easy         |
-| E                 | Edit         |
+| Shortcut | Action |
+|---|---|
+| `Space` | Show answer |
+| `1` | Again |
+| `2` | Hard |
+| `3` | Good |
+| `4` | Easy |
+| `E` | Edit |

@@ -66,12 +66,12 @@ Work faster in the editor with these shortcuts:
 
 | Shortcut | Action |
 |---|---|
-| Ctrl + Enter | Insert new cell at the end of the file |
-| Ctrl + Shift + Enter | Insert new cell after the current selected cell |
-| Ctrl + Arrow up/down | Move focus to the previous/next cell |
-| Ctrl + Alt + Arrow up/down | Move the selected cell up/down |
-| Ctrl + F | Search |
-| Ctrl + Space | Move focus to the text editor |
-| Alt + DEL | Delete current cell |
-| F5 | Start studying/review session |
+| `Ctrl + Enter` / `Cmd + Enter` | Insert new cell at the end of the file |
+| `Ctrl + Shift + Enter` / `Cmd + Shift + Enter` | Insert new cell after the current selected cell |
+| `Ctrl + Arrow up/down` / `Cmd + Arrow up/down` | Move focus to the previous/next cell |
+| `Ctrl + Alt + Arrow up/down` / `Cmd + Option + Arrow up/down` | Move the selected cell up/down |
+| `Ctrl + F` / `Cmd + F` | Search |
+| `Ctrl + Space` / `Cmd + Space` | Move focus to the text editor |
+| `Alt + DEL` / `Option + DEL` | Delete current cell |
+| `F5` | Start studying/review session |
 
