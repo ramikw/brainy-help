@@ -1,6 +1,6 @@
 # Getting started
 
-Brainy is a powerful learning app designed to make knowledge retention effortless and enjoyable. Whether you're a student, professional, or lifelong learner, Brainy empowers you to master any subject through active learning and scientifically-proven spaced repetition techniques.
+Brainy is an open-source, AI-integrated learning app built around spaced repetition.
 
 ## Key Features
 
